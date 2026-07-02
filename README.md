@@ -8,12 +8,18 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 | ------- |
 | [0001-two-sum](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
