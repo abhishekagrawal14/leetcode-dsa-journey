@@ -12,7 +12,7 @@ public:
             }  
         }
         if(count == 0 ) {
-            sort(nums.begin(),nums.end());
+            reverse(nums.begin(),nums.end());
             return;
         }
 
