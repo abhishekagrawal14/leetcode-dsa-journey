@@ -12,6 +12,7 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 | [0053-maximum-subarray](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -25,6 +26,7 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -49,4 +51,8 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
