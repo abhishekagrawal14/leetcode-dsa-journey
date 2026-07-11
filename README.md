@@ -17,6 +17,7 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -70,4 +72,5 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
