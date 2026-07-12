@@ -18,6 +18,7 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 | [0128-longest-consecutive-sequence](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 | [0073-set-matrix-zeroes](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +75,8 @@ Daily LeetCode solutions synced via LeetHub — tracking my DSA prep alongside S
 | ------- |
 | [0048-rotate-image](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0189-rotate-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekagrawal14/leetcode-dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
